@@ -1,62 +1,61 @@
-[
-    {
-  "url": "https://raw.githubusercontent.com/ACESetup/Colorful.json/main/marco-de-hevia-K8mE2IuRMGc-unsplash.jpg",
-  "name": "ACE Retro wallpaper 1",
-  "author": "marco-de-hevia",
-  "collections": "Colorful"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/Colorful.json/main/massimiliano-morosinotto--6hvB84fyYA-unsplash.jpg",
-  "name": "ACE Retro wallpaper 2",
-  "author": "massimiliano-morosinotto",
-  "collections": "Colorful"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/Colorful.json/main/rahul-viswanath-7UMPBVesGPk-unsplash.jpg",
-  "name": "ACE Retro wallpaper 3",
-  "author": "rahul-viswanath",
-  "collections": "Colorful"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/Colorful.json/main/tema-bersh-XVSm7YhHdco-unsplash.jpg",
-  "name": "ACE Retro wallpaper 4",
-  "author": "tema-bersh",
-  "collections": "Colorful"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/001ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 5",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/003ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 6",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/005ACEPastel.png",
-  "name": "ACE Retro wallpaper 7",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/006ACEPastel.png",
-  "name": "ACE Retro wallpaper 8",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/007ACEPastel.png",
-  "name": "ACE Retro wallpaper 9",
-  "author": "Don7TK",
-  "collections": "Retro"
- },
- {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/008ACEPastel.png",
-  "name": "ACE Retro wallpaper 10",
-  "author": "Don7TK",
-  "collections": "Retro"
- }
- ]
+[{
+		"url": "https://raw.githubusercontent.com/ACESetup/Colorful.json/main/marco-de-hevia-K8mE2IuRMGc-unsplash.jpg",
+		"name": "ACE Retro wallpaper 1",
+		"author": "marco-de-hevia",
+		"collections": "Colorful"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/Colorful.json/main/massimiliano-morosinotto--6hvB84fyYA-unsplash.jpg",
+		"name": "ACE Retro wallpaper 2",
+		"author": "massimiliano-morosinotto",
+		"collections": "Colorful"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/Colorful.json/main/rahul-viswanath-7UMPBVesGPk-unsplash.jpg",
+		"name": "ACE Retro wallpaper 3",
+		"author": "rahul-viswanath",
+		"collections": "Colorful"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/Colorful.json/main/tema-bersh-XVSm7YhHdco-unsplash.jpg",
+		"name": "ACE Retro wallpaper 4",
+		"author": "tema-bersh",
+		"collections": "Colorful"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/001ACEPastel.jpg",
+		"name": "ACE Retro wallpaper 5",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/003ACEPastel.jpg",
+		"name": "ACE Retro wallpaper 6",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/005ACEPastel.png",
+		"name": "ACE Retro wallpaper 7",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/006ACEPastel.png",
+		"name": "ACE Retro wallpaper 8",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/007ACEPastel.png",
+		"name": "ACE Retro wallpaper 9",
+		"author": "Don7TK",
+		"collections": "Retro"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/008ACEPastel.png",
+		"name": "ACE Retro wallpaper 10",
+		"author": "Don7TK",
+		"collections": "Retro"
+	}
+]
