@@ -1,4 +1,5 @@
-[{
+[
+{
 		"url": "https://raw.githubusercontent.com/ACESetup/Colorful.json/main/marco-de-hevia-K8mE2IuRMGc-unsplash.jpg",
 		"name": "ACE Retro wallpaper 1",
 		"author": "marco-de-hevia",
@@ -57,5 +58,5 @@
 		"name": "ACE Retro wallpaper 10",
 		"author": "Don7TK",
 		"collections": "Retro"
-	}
-]
+		}
+		]
